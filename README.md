@@ -7,7 +7,7 @@ A basic but entertaining Number Guessing Game written in JavaScript, HTML, and C
 
 # Number Guessing Game 🎲
 
-Welcome to the Number Guessing Game, a fun and interactive web application built with HTML, CSS, and JavaScript!
+A basic but entertaining Number Guessing Game written in JavaScript, HTML, and CSS. This project is my first step into the realm of JavaScript programming, and it illustrates the fundamental ideas I've learned thus far.
 
 ## Description 📝
 
@@ -24,7 +24,7 @@ The Number Guessing Game is a single-page web application where the user tries t
 
 ## Screenshots 📸
 
-Include some awesome screenshots of your application here to visually showcase the game. Demonstrate the modern and sleek design that enhances the user experience.
+![GuessMyNumberGame](https://github.com/TahaZahid24/NumberGuessGameJavaScript/assets/139172162/8b324fd0-8929-43de-94da-31584e46c8f5) 
 
 ## Technologies Used 💻
 
