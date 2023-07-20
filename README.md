@@ -30,11 +30,6 @@ The project utilizes the following technologies:
 - <img src="js-logo.png" alt="JavaScript Logo" style="width: 20px; height: auto;">
   JavaScript
 
-## How to Contribute 🤝
-
-As this project serves as a personal demonstration, I am not currently accepting direct contributions. However, if you have any feedback or suggestions, please feel free to create an issue in the repository. Your valuable insights are always welcome!
-
-
 ## Learning Outcome 📚
 
 Working on this project has been a valuable learning experience for me. Here are the key takeaways from this project:
@@ -49,4 +44,6 @@ Working on this project has been a valuable learning experience for me. Here are
 
 5. **User Experience (UX):** I focused on creating an intuitive and visually appealing user interface to enhance the overall user experience.
 
+## How to Contribute 🤝
 
+Contributions and feedback are welcome! Feel free to create issues, provide suggestions, and submit pull requests to improve the project.
