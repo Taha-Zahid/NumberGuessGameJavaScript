@@ -24,8 +24,8 @@ The Number Guessing Game is a single-page web application where the user tries t
 The project utilizes the following technologies:
 
 - ![HTML](html-logo.png) HTML
-- ![CSS](logos/css-logo.png) CSS
-- ![JavaScript](logos/js-logo.png) JavaScript
+- ![CSS](css-logo.png) CSS
+- ![JavaScript](js-logo.png) JavaScript
 
 ## How to Contribute 🤝
 
