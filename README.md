@@ -23,11 +23,11 @@ The Number Guessing Game is a single-page web application where the user tries t
 
 The project utilizes the following technologies:
 
-- <img src="html-logo.png" alt="HTML Logo" width="25" >
+- <img src="html-logo.png" alt="HTML Logo" style="width: 20px; height: auto;" >
   HTML
-- <img src="css-logo.png" alt="CSS Logo" width="20">
+- <img src="css-logo.png" alt="CSS Logo" style="width: 20px; height: auto;">
   CSS
-- <img src="js-logo.png" alt="JavaScript Logo" width="20">
+- <img src="js-logo.png" alt="JavaScript Logo" style="width: 20px; height: auto;">
   JavaScript
 
 ## How to Contribute 🤝
