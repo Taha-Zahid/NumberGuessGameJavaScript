@@ -30,12 +30,6 @@ The project utilizes the following technologies:
 - <img src="js-logo.png" alt="JavaScript Logo" width="20">
   JavaScript
 
-The project utilizes the following technologies:
-
-- ![HTML](html-logo.png) HTML
-- ![CSS](css-logo.png) CSS
-- ![JavaScript](js-logo.png) JavaScript
-
 ## How to Contribute 🤝
 
 As this project serves as a personal demonstration, I am not currently accepting direct contributions. However, if you have any feedback or suggestions, please feel free to create an issue in the repository. Your valuable insights are always welcome!
