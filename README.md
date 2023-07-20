@@ -23,7 +23,7 @@ The Number Guessing Game is a single-page web application where the user tries t
 
 The project utilizes the following technologies:
 
-- <img src="html-logo.png" alt="HTML Logo" width="20" >
+- <img src="html-logo.png" alt="HTML Logo" width="25" >
   HTML
 - <img src="css-logo.png" alt="CSS Logo" width="20">
   CSS
