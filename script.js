@@ -34,24 +34,27 @@ let secretNumber = Math.trunc(Math.random() * 20) + 1;
 let score = 20;
 let highscore = 0;
 
+// Simplifying updating message to user by using DOM manipulation
 const displayMessage = function (message) {
   document.querySelector('.message').textContent = message;
 };
 
+// Handling the ".check" button click event
 document.querySelector('.check').addEventListener('click', function () {
   const guess = Number(document.querySelector('.guess').value);
   console.log(typeof guess, guess);
 
-  // When there is no input
+  // This alerts the user if there is no input by the user
   if (!guess) {
     // document.querySelector('.message').textContent = '⛔ No Number!';
     displayMessage('⛔ No Number!');
 
-    // When Player wins
+    // Winning scenario if the user guesses the correct number
   } else if (guess === secretNumber) {
     // document.querySelector('.message').textContent = '🎉 Correct Number! ';
     displayMessage('🎉 Correct Number! ');
 
+    // We then shoe the secretNumber to the UI
     document.querySelector('.number').textContent = secretNumber;
 
     document.querySelector('body').style.backgroundColor = '#60b347';
@@ -75,6 +78,7 @@ document.querySelector('.check').addEventListener('click', function () {
       score--;
       document.querySelector('.score').textContent = score;
     } else {
+      // When the user does not guess and loses all of its score starting from "20"
       //   document.querySelector('.message').textContent = '💥 You lost the game!';
       displayMessage('💥 You lost the game!');
       document.querySelector('.score').textContent = 0;
@@ -116,6 +120,9 @@ document.querySelector('.check').addEventListener('click', function () {
   }
 });
 
+// Handling the "again" Button Click
+// Resets the game to its intial state when the user wants to play
+// State Management (reset)
 document.querySelector('.again').addEventListener('click', function () {
   score = 20;
   secretNumber = Math.trunc(Math.random() * 20) + 1;
